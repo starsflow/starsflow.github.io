@@ -1,17 +1,14 @@
 # Table of contents
 
 * [Welcome](README.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Table of contents](summary.md)
+* [basics](basics/README.md)
+  * [Editor](basics/editor.md)
+  * [Images & media](basics/images-and-media.md)
+  * [Integrations](basics/integrations.md)
+  * [Interactive blocks](basics/interactive-blocks.md)
+  * [Markdown](basics/markdown.md)
+  * [OpenAPI](basics/openapi.md)
+* [getting-started](getting-started/README.md)
+  * [Publish your docs](getting-started/publish-your-docs.md)
+  * [Quickstart](getting-started/quickstart.md)
