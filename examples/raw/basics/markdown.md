@@ -16,7 +16,3 @@ This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs
 - Point 2
 - Point 3
 ```
-
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}

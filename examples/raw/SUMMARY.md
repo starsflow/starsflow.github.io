@@ -6,7 +6,6 @@
   * [Editor](basics/editor.md)
   * [Images & media](basics/images-and-media.md)
   * [Integrations](basics/integrations.md)
-  * [Interactive blocks](basics/interactive-blocks.md)
   * [Markdown](basics/markdown.md)
   * [OpenAPI](basics/openapi.md)
 * [getting-started](getting-started/README.md)
