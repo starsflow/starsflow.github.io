@@ -26,6 +26,6 @@ jobs:
         with:
           token: ${{ secrets.GITBOOK }} 
           time_zone: Asia/Shanghai
-          source_dir: examples
+          source_dir: examples/raw
           source_edit_time: true
           publish_dir: examples
